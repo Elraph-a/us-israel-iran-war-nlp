@@ -1,0 +1,17 @@
+# Render Blueprint for the FastAPI backend.
+# Create the service from the Render dashboard: New + > Blueprint > pick this repo.
+services:
+  - type: web
+    name: war-discourse-api
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.10"
+      # Set this to your Vercel URL after the frontend is deployed
+      # (any *.vercel.app origin is already allowed by the API's CORS regex).
+      - key: FRONTEND_ORIGIN
+        value: "https://your-frontend.vercel.app"

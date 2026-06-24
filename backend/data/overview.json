@@ -1,0 +1,50 @@
+{
+  "total_documents": 9109,
+  "num_sources": 7,
+  "num_topics": 6,
+  "sources": [
+    {
+      "source": "Twitter",
+      "count": 1881,
+      "media_type": "Social Media"
+    },
+    {
+      "source": "Reddit",
+      "count": 1835,
+      "media_type": "Social Media"
+    },
+    {
+      "source": "YouTube",
+      "count": 1720,
+      "media_type": "Social Media"
+    },
+    {
+      "source": "Facebook",
+      "count": 1608,
+      "media_type": "Social Media"
+    },
+    {
+      "source": "News Outlet",
+      "count": 1016,
+      "media_type": "Traditional News"
+    },
+    {
+      "source": "TikTok",
+      "count": 567,
+      "media_type": "Social Media"
+    },
+    {
+      "source": "Instagram",
+      "count": 482,
+      "media_type": "Social Media"
+    }
+  ],
+  "scope": "Online discourse on the US / Israel-Iran war, collected across news outlets and five social platforms.",
+  "methods": [
+    "Text preprocessing (cleaning, lemmatization, English filtering)",
+    "LDA topic modelling (6 topics)",
+    "VADER lexicon sentiment",
+    "TextBlob polarity sentiment",
+    "Supervised (TF-IDF + Logistic Regression) & unsupervised analysis"
+  ]
+}

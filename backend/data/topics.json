@@ -1,0 +1,751 @@
+{
+  "topics": [
+    {
+      "id": 0,
+      "label": "Diplomatic negotiations",
+      "keywords": [
+        {
+          "word": "iran",
+          "weight": 1.0
+        },
+        {
+          "word": "trump",
+          "weight": 0.5458
+        },
+        {
+          "word": "war",
+          "weight": 0.386
+        },
+        {
+          "word": "talk",
+          "weight": 0.3275
+        },
+        {
+          "word": "official",
+          "weight": 0.256
+        },
+        {
+          "word": "israel",
+          "weight": 0.2447
+        },
+        {
+          "word": "iranian",
+          "weight": 0.241
+        },
+        {
+          "word": "end",
+          "weight": 0.2219
+        },
+        {
+          "word": "tehran",
+          "weight": 0.2143
+        },
+        {
+          "word": "negotiation",
+          "weight": 0.2115
+        },
+        {
+          "word": "pakistan",
+          "weight": 0.2096
+        },
+        {
+          "word": "strait",
+          "weight": 0.2095
+        },
+        {
+          "word": "hormuz",
+          "weight": 0.1949
+        },
+        {
+          "word": "strike",
+          "weight": 0.1885
+        },
+        {
+          "word": "plan",
+          "weight": 0.1863
+        },
+        {
+          "word": "strait hormuz",
+          "weight": 0.1633
+        },
+        {
+          "word": "state",
+          "weight": 0.1602
+        },
+        {
+          "word": "president",
+          "weight": 0.134
+        },
+        {
+          "word": "conflict",
+          "weight": 0.1281
+        },
+        {
+          "word": "deal",
+          "weight": 0.1247
+        },
+        {
+          "word": "country",
+          "weight": 0.1244
+        },
+        {
+          "word": "minister",
+          "weight": 0.1224
+        },
+        {
+          "word": "missile",
+          "weight": 0.1154
+        },
+        {
+          "word": "middle",
+          "weight": 0.1113
+        },
+        {
+          "word": "east",
+          "weight": 0.1091
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "label": "Online discourse & nuclear conflict narratives",
+      "keywords": [
+        {
+          "word": "war",
+          "weight": 1.0
+        },
+        {
+          "word": "iran",
+          "weight": 0.9745
+        },
+        {
+          "word": "israel",
+          "weight": 0.737
+        },
+        {
+          "word": "trump",
+          "weight": 0.2132
+        },
+        {
+          "word": "war iran",
+          "weight": 0.1782
+        },
+        {
+          "word": "country",
+          "weight": 0.1613
+        },
+        {
+          "word": "world",
+          "weight": 0.1527
+        },
+        {
+          "word": "start",
+          "weight": 0.1418
+        },
+        {
+          "word": "usa",
+          "weight": 0.1366
+        },
+        {
+          "word": "help",
+          "weight": 0.1246
+        },
+        {
+          "word": "america",
+          "weight": 0.1199
+        },
+        {
+          "word": "attack",
+          "weight": 0.1122
+        },
+        {
+          "word": "stop",
+          "weight": 0.0977
+        },
+        {
+          "word": "support",
+          "weight": 0.0924
+        },
+        {
+          "word": "iran israel",
+          "weight": 0.0889
+        },
+        {
+          "word": "iran war",
+          "weight": 0.086
+        },
+        {
+          "word": "illegal",
+          "weight": 0.0827
+        },
+        {
+          "word": "peace",
+          "weight": 0.079
+        },
+        {
+          "word": "kill",
+          "weight": 0.0623
+        },
+        {
+          "word": "regime",
+          "weight": 0.0621
+        },
+        {
+          "word": "god",
+          "weight": 0.061
+        },
+        {
+          "word": "fight",
+          "weight": 0.0609
+        },
+        {
+          "word": "israel war",
+          "weight": 0.0599
+        },
+        {
+          "word": "crime",
+          "weight": 0.0583
+        },
+        {
+          "word": "win",
+          "weight": 0.0577
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Military operations & weapons systems",
+      "keywords": [
+        {
+          "word": "iran",
+          "weight": 1.0
+        },
+        {
+          "word": "israel",
+          "weight": 0.7032
+        },
+        {
+          "word": "attack",
+          "weight": 0.5412
+        },
+        {
+          "word": "iranian",
+          "weight": 0.5342
+        },
+        {
+          "word": "missile",
+          "weight": 0.5075
+        },
+        {
+          "word": "strike",
+          "weight": 0.4968
+        },
+        {
+          "word": "military",
+          "weight": 0.4441
+        },
+        {
+          "word": "israeli",
+          "weight": 0.4129
+        },
+        {
+          "word": "target",
+          "weight": 0.3741
+        },
+        {
+          "word": "war",
+          "weight": 0.334
+        },
+        {
+          "word": "lebanon",
+          "weight": 0.3084
+        },
+        {
+          "word": "force",
+          "weight": 0.2974
+        },
+        {
+          "word": "hezbollah",
+          "weight": 0.2632
+        },
+        {
+          "word": "kill",
+          "weight": 0.2574
+        },
+        {
+          "word": "state",
+          "weight": 0.2104
+        },
+        {
+          "word": "drone",
+          "weight": 0.2035
+        },
+        {
+          "word": "launch",
+          "weight": 0.1848
+        },
+        {
+          "word": "tehran",
+          "weight": 0.1842
+        },
+        {
+          "word": "operation",
+          "weight": 0.1813
+        },
+        {
+          "word": "air",
+          "weight": 0.1779
+        },
+        {
+          "word": "base",
+          "weight": 0.167
+        },
+        {
+          "word": "civilian",
+          "weight": 0.1564
+        },
+        {
+          "word": "region",
+          "weight": 0.1519
+        },
+        {
+          "word": "official",
+          "weight": 0.1481
+        },
+        {
+          "word": "hit",
+          "weight": 0.1464
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "State power, governance & political leadership",
+      "keywords": [
+        {
+          "word": "trump",
+          "weight": 1.0
+        },
+        {
+          "word": "iran",
+          "weight": 0.8001
+        },
+        {
+          "word": "nuclear",
+          "weight": 0.541
+        },
+        {
+          "word": "president",
+          "weight": 0.5099
+        },
+        {
+          "word": "war",
+          "weight": 0.485
+        },
+        {
+          "word": "american",
+          "weight": 0.4126
+        },
+        {
+          "word": "regime",
+          "weight": 0.3786
+        },
+        {
+          "word": "iranian",
+          "weight": 0.2948
+        },
+        {
+          "word": "post",
+          "weight": 0.2799
+        },
+        {
+          "word": "say",
+          "weight": 0.2501
+        },
+        {
+          "word": "state",
+          "weight": 0.244
+        },
+        {
+          "word": "power",
+          "weight": 0.2261
+        },
+        {
+          "word": "world",
+          "weight": 0.1943
+        },
+        {
+          "word": "government",
+          "weight": 0.1927
+        },
+        {
+          "word": "administration",
+          "weight": 0.1902
+        },
+        {
+          "word": "change",
+          "weight": 0.1822
+        },
+        {
+          "word": "weapon",
+          "weight": 0.1817
+        },
+        {
+          "word": "end",
+          "weight": 0.171
+        },
+        {
+          "word": "deal",
+          "weight": 0.1677
+        },
+        {
+          "word": "threat",
+          "weight": 0.1633
+        },
+        {
+          "word": "leader",
+          "weight": 0.1593
+        },
+        {
+          "word": "work",
+          "weight": 0.1481
+        },
+        {
+          "word": "point",
+          "weight": 0.1456
+        },
+        {
+          "word": "america",
+          "weight": 0.1375
+        },
+        {
+          "word": "nuclear weapon",
+          "weight": 0.1374
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Global energy markets & the Strait of Hormuz",
+      "keywords": [
+        {
+          "word": "oil",
+          "weight": 1.0
+        },
+        {
+          "word": "strait",
+          "weight": 0.715
+        },
+        {
+          "word": "energy",
+          "weight": 0.6812
+        },
+        {
+          "word": "price",
+          "weight": 0.655
+        },
+        {
+          "word": "hormuz",
+          "weight": 0.5244
+        },
+        {
+          "word": "market",
+          "weight": 0.4797
+        },
+        {
+          "word": "iran",
+          "weight": 0.4631
+        },
+        {
+          "word": "strait hormuz",
+          "weight": 0.4449
+        },
+        {
+          "word": "global",
+          "weight": 0.354
+        },
+        {
+          "word": "gas",
+          "weight": 0.3386
+        },
+        {
+          "word": "supply",
+          "weight": 0.2883
+        },
+        {
+          "word": "war",
+          "weight": 0.2748
+        },
+        {
+          "word": "ship",
+          "weight": 0.2693
+        },
+        {
+          "word": "trump",
+          "weight": 0.2507
+        },
+        {
+          "word": "fuel",
+          "weight": 0.216
+        },
+        {
+          "word": "crude",
+          "weight": 0.1975
+        },
+        {
+          "word": "week",
+          "weight": 0.1934
+        },
+        {
+          "word": "barrel",
+          "weight": 0.1845
+        },
+        {
+          "word": "high",
+          "weight": 0.166
+        },
+        {
+          "word": "gulf",
+          "weight": 0.1641
+        },
+        {
+          "word": "oil price",
+          "weight": 0.1634
+        },
+        {
+          "word": "conflict",
+          "weight": 0.1451
+        },
+        {
+          "word": "iranian",
+          "weight": 0.1411
+        },
+        {
+          "word": "attack",
+          "weight": 0.1409
+        },
+        {
+          "word": "infrastructure",
+          "weight": 0.1405
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)",
+      "keywords": [
+        {
+          "word": "state",
+          "weight": 1.0
+        },
+        {
+          "word": "war",
+          "weight": 0.7136
+        },
+        {
+          "word": "iran",
+          "weight": 0.6164
+        },
+        {
+          "word": "conflict",
+          "weight": 0.5718
+        },
+        {
+          "word": "military",
+          "weight": 0.5701
+        },
+        {
+          "word": "united",
+          "weight": 0.4718
+        },
+        {
+          "word": "international",
+          "weight": 0.4601
+        },
+        {
+          "word": "country",
+          "weight": 0.4509
+        },
+        {
+          "word": "gulf",
+          "weight": 0.4361
+        },
+        {
+          "word": "security",
+          "weight": 0.4298
+        },
+        {
+          "word": "region",
+          "weight": 0.3754
+        },
+        {
+          "word": "china",
+          "weight": 0.3744
+        },
+        {
+          "word": "include",
+          "weight": 0.3632
+        },
+        {
+          "word": "united state",
+          "weight": 0.3611
+        },
+        {
+          "word": "regional",
+          "weight": 0.3421
+        },
+        {
+          "word": "strategic",
+          "weight": 0.3382
+        },
+        {
+          "word": "russia",
+          "weight": 0.3316
+        },
+        {
+          "word": "global",
+          "weight": 0.3301
+        },
+        {
+          "word": "government",
+          "weight": 0.3263
+        },
+        {
+          "word": "middle",
+          "weight": 0.3152
+        },
+        {
+          "word": "east",
+          "weight": 0.2916
+        },
+        {
+          "word": "economic",
+          "weight": 0.2887
+        },
+        {
+          "word": "political",
+          "weight": 0.2887
+        },
+        {
+          "word": "support",
+          "weight": 0.2798
+        },
+        {
+          "word": "drone",
+          "weight": 0.2773
+        }
+      ]
+    }
+  ],
+  "sizes": [
+    {
+      "id": 0,
+      "label": "Diplomatic negotiations",
+      "count": 738,
+      "percentage": 8.1
+    },
+    {
+      "id": 1,
+      "label": "Online discourse & nuclear conflict narratives",
+      "count": 3690,
+      "percentage": 40.5
+    },
+    {
+      "id": 2,
+      "label": "Military operations & weapons systems",
+      "count": 880,
+      "percentage": 9.7
+    },
+    {
+      "id": 3,
+      "label": "State power, governance & political leadership",
+      "count": 2016,
+      "percentage": 22.1
+    },
+    {
+      "id": 4,
+      "label": "Global energy markets & the Strait of Hormuz",
+      "count": 979,
+      "percentage": 10.7
+    },
+    {
+      "id": 5,
+      "label": "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)",
+      "count": 806,
+      "percentage": 8.8
+    }
+  ],
+  "by_source": [
+    {
+      "source": "Facebook",
+      "Diplomatic negotiations": 149,
+      "Global energy markets & the Strait of Hormuz": 58,
+      "Military operations & weapons systems": 87,
+      "Online discourse & nuclear conflict narratives": 715,
+      "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)": 110,
+      "State power, governance & political leadership": 489
+    },
+    {
+      "source": "Instagram",
+      "Diplomatic negotiations": 19,
+      "Global energy markets & the Strait of Hormuz": 13,
+      "Military operations & weapons systems": 65,
+      "Online discourse & nuclear conflict narratives": 254,
+      "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)": 28,
+      "State power, governance & political leadership": 103
+    },
+    {
+      "source": "News Outlet",
+      "Diplomatic negotiations": 165,
+      "Global energy markets & the Strait of Hormuz": 183,
+      "Military operations & weapons systems": 293,
+      "Online discourse & nuclear conflict narratives": 6,
+      "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)": 198,
+      "State power, governance & political leadership": 171
+    },
+    {
+      "source": "Reddit",
+      "Diplomatic negotiations": 173,
+      "Global energy markets & the Strait of Hormuz": 414,
+      "Military operations & weapons systems": 78,
+      "Online discourse & nuclear conflict narratives": 398,
+      "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)": 230,
+      "State power, governance & political leadership": 542
+    },
+    {
+      "source": "TikTok",
+      "Diplomatic negotiations": 67,
+      "Global energy markets & the Strait of Hormuz": 23,
+      "Military operations & weapons systems": 19,
+      "Online discourse & nuclear conflict narratives": 285,
+      "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)": 24,
+      "State power, governance & political leadership": 149
+    },
+    {
+      "source": "Twitter",
+      "Diplomatic negotiations": 89,
+      "Global energy markets & the Strait of Hormuz": 174,
+      "Military operations & weapons systems": 213,
+      "Online discourse & nuclear conflict narratives": 1247,
+      "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)": 83,
+      "State power, governance & political leadership": 75
+    },
+    {
+      "source": "YouTube",
+      "Diplomatic negotiations": 76,
+      "Global energy markets & the Strait of Hormuz": 114,
+      "Military operations & weapons systems": 125,
+      "Online discourse & nuclear conflict narratives": 785,
+      "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)": 133,
+      "State power, governance & political leadership": 487
+    }
+  ],
+  "topic_labels": [
+    "Diplomatic negotiations",
+    "Online discourse & nuclear conflict narratives",
+    "Military operations & weapons systems",
+    "State power, governance & political leadership",
+    "Global energy markets & the Strait of Hormuz",
+    "Regional conflict & proxy warfare (Iran-Israel-Hezbollah)"
+  ]
+}

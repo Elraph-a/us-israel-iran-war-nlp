@@ -1,0 +1,104 @@
+{
+  "vader_distribution": {
+    "Positive": 2260,
+    "Neutral": 1487,
+    "Negative": 5362
+  },
+  "textblob_distribution": {
+    "Positive": 3173,
+    "Neutral": 3297,
+    "Negative": 2639
+  },
+  "vader_overall_avg": -0.2755,
+  "textblob_overall_avg": 0.0032,
+  "by_source": [
+    {
+      "source": "News Outlet",
+      "vader_avg": -0.6446,
+      "textblob_avg": 0.0163,
+      "count": 1016
+    },
+    {
+      "source": "Twitter",
+      "vader_avg": -0.618,
+      "textblob_avg": -0.0291,
+      "count": 1881
+    },
+    {
+      "source": "YouTube",
+      "vader_avg": -0.1852,
+      "textblob_avg": -0.0226,
+      "count": 1720
+    },
+    {
+      "source": "Reddit",
+      "vader_avg": -0.1523,
+      "textblob_avg": 0.0157,
+      "count": 1835
+    },
+    {
+      "source": "Facebook",
+      "vader_avg": -0.0425,
+      "textblob_avg": 0.0393,
+      "count": 1608
+    },
+    {
+      "source": "Instagram",
+      "vader_avg": -0.0298,
+      "textblob_avg": 0.038,
+      "count": 482
+    },
+    {
+      "source": "TikTok",
+      "vader_avg": -0.0201,
+      "textblob_avg": -0.0078,
+      "count": 567
+    }
+  ],
+  "media_comparison": [
+    {
+      "media_type": "Social Media",
+      "vader_avg": -0.2292,
+      "count": 8093,
+      "pos_pct": 25.8,
+      "neu_pct": 18.3,
+      "neg_pct": 55.9
+    },
+    {
+      "media_type": "Traditional News",
+      "vader_avg": -0.6446,
+      "count": 1016,
+      "pos_pct": 16.7,
+      "neu_pct": 0.6,
+      "neg_pct": 82.7
+    }
+  ],
+  "dimensions": [
+    {
+      "dimension": "Military",
+      "vader_avg": -0.5885,
+      "count": 2322
+    },
+    {
+      "dimension": "Geopolitical",
+      "vader_avg": -0.4506,
+      "count": 5195
+    },
+    {
+      "dimension": "Economic",
+      "vader_avg": -0.4667,
+      "count": 2189
+    },
+    {
+      "dimension": "Media",
+      "vader_avg": -0.5816,
+      "count": 1225
+    },
+    {
+      "dimension": "Support",
+      "vader_avg": -0.3817,
+      "count": 4975
+    }
+  ],
+  "supervised_accuracy": 0.8172
+}

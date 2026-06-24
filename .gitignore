@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Environment files — keep ALL of these local only, never on GitHub
+.env
+.env.*
+
+# Project deliverables & source data (NOT needed to run the app)
+# The app runs from the precomputed backend/data + backend/models, which ARE committed.
+*.docx
+*.pptx
+*.xlsx
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots / images
+*.png
